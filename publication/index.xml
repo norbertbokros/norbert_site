@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Welcome</title>
-    <link>/publication/</link>
+    <link>github.com/norbertbokros/norbert_site/publication/</link>
     <description>Recent content in Publications on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="github.com/norbertbokros/norbert_site/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improved Draft Genome Sequence of Microbacterium sp. Strain LKL04, a Bacterial Endophyte Associated with Switchgrass Plants</title>
-      <link>/publication/lkl04_genome/</link>
+      <link>github.com/norbertbokros/norbert_site/publication/lkl04_genome/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lkl04_genome/</guid>
+      <guid>github.com/norbertbokros/norbert_site/publication/lkl04_genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proteomics and proteogenomics analysis of sweetpotato (Ipomoea batatas) leaf and root</title>
-      <link>/publication/sweet_potato/</link>
+      <link>github.com/norbertbokros/norbert_site/publication/sweet_potato/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sweet_potato/</guid>
+      <guid>github.com/norbertbokros/norbert_site/publication/sweet_potato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multispecies genome-wide analysis defines the MAP3K gene family in Gossypium hirsutum and reveals conserved family expansions</title>
-      <link>/publication/cotton_map3k/</link>
+      <link>github.com/norbertbokros/norbert_site/publication/cotton_map3k/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cotton_map3k/</guid>
+      <guid>github.com/norbertbokros/norbert_site/publication/cotton_map3k/</guid>
       <description></description>
     </item>
     

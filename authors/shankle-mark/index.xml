@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shankle, Mark on Welcome</title>
-    <link>/authors/shankle-mark/</link>
+    <link>github.com/norbertbokros/norbert_site/authors/shankle-mark/</link>
     <description>Recent content in Shankle, Mark on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/shankle-mark/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="github.com/norbertbokros/norbert_site/authors/shankle-mark/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Proteomics and proteogenomics analysis of sweetpotato (Ipomoea batatas) leaf and root</title>
-      <link>/publication/sweet_potato/</link>
+      <link>github.com/norbertbokros/norbert_site/publication/sweet_potato/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sweet_potato/</guid>
+      <guid>github.com/norbertbokros/norbert_site/publication/sweet_potato/</guid>
       <description></description>
     </item>
     

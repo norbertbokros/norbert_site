@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shapiro, Nicole on Welcome</title>
-    <link>/authors/shapiro-nicole/</link>
+    <link>github.com/norbertbokros/norbert_site/authors/shapiro-nicole/</link>
     <description>Recent content in Shapiro, Nicole on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/shapiro-nicole/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="github.com/norbertbokros/norbert_site/authors/shapiro-nicole/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improved Draft Genome Sequence of Microbacterium sp. Strain LKL04, a Bacterial Endophyte Associated with Switchgrass Plants</title>
-      <link>/publication/lkl04_genome/</link>
+      <link>github.com/norbertbokros/norbert_site/publication/lkl04_genome/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lkl04_genome/</guid>
+      <guid>github.com/norbertbokros/norbert_site/publication/lkl04_genome/</guid>
       <description></description>
     </item>
     
