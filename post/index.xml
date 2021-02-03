@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corny Beginnings</title>
+      <link>/post/corny-beginnings/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/corny-beginnings/</guid>
+      <description>Early Beginnings  The crew - hard at work - while we wait for the planter to prepare our rows for us.    Joe delegates the setting out of our row markers. Howard&amp;rsquo;s mind is blown.    Really a beutiful day to be outside!    Row 202 - the extra special, very picturesque row.   Timelapse of the planting of a row:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2019-05-20-corny-beginnings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-05-20-corny-beginnings/</guid>
+      <description>Corny Beginningscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+  </channel>
+</rss>

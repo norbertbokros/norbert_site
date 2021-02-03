@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <loc>/talk/example/</loc>
+      <lastmod>2030-06-01T13:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/lkl04_genome/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/sweet_potato/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/corny-beginnings/</loc>
+      <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/cotton_map3k/</loc>
+      <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/post/2019-05-20-corny-beginnings/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/ahsan-nagib/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/almohanna-thualfeqar/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/bokros-norbert/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/debolt-seth/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/dimlioglu-gizem/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/kyrpides-nikos-c./</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/popescu-george-v./</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/popescu-sorina-c./</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/reddy-kambham-raja/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/sahib-mohammad-radhi/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/shankle-mark/</loc>
+      <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/shapiro-nicole/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/slides/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2030-06-01T13:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/woyke-tanja/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/xia-ye/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/yang-piao/</loc>
+      <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+</urlset>
